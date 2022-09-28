@@ -1,2 +1,2 @@
 # Coffe-Machine
-A small project with functions for a coffee machine
+A small project for a coffee machine
